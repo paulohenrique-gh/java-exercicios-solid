@@ -17,8 +17,12 @@ public class Pedido {
 
     public void exibirDetalhes() {
         System.out.println("Código: " + this.codigo);
-        System.out.println("Valor: " + this.valor);
-        System.out.println("Desconto: " + this.desconto.calcularDesconto(this.valor));
-        System.out.println("Total: " + this.calcularTotal() + "\n");
+        System.out.println("Valor: " + formatarNumero(this.valor));
+        System.out.println("Desconto: " + formatarNumero(this.desconto.calcularDesconto(this.valor)));
+        System.out.println("Total: " + formatarNumero((this.calcularTotal())) + "\n");
+    }
+
+    private String formatarNumero(double valor) {
+       return String.format("%.2f", valor);
     }
 }
