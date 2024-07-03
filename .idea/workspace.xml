@@ -5,10 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08852739-664f-452f-9f30-1d297a08b04b" name="Changes" comment="Exercicio 2">
-      <change afterPath="$PROJECT_DIR$/src/Ex2/DescontoFuncionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex3/Conta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex3/ContaCorrente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex3/ContaPoupanca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex3/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex1/GeradorRelatorio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex1/GeradorRelatorio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex1/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Ex2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex2/Pedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex2/Pedido.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +22,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -35,23 +39,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "D:/Java/t-ready/ExerciciosSOLID/src/Main.java",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/Java/t-ready/ExerciciosSOLID/src/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -71,6 +75,8 @@
       <workItem from="1719967710861" duration="978000" />
       <workItem from="1720008845232" duration="4217000" />
       <workItem from="1720014630134" duration="2527000" />
+      <workItem from="1720032005564" duration="4000" />
+      <workItem from="1720032015895" duration="2663000" />
     </task>
     <task id="LOCAL-00001" summary="Exercicio 1">
       <option name="closed" value="true" />
