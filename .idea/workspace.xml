@@ -4,19 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08852739-664f-452f-9f30-1d297a08b04b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExerciciosSOLID.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex1/GeradorRelatorio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex1/ImpressoraRelatorio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex1/Relatorio.java" afterDir="false" />
+    <list default="true" id="08852739-664f-452f-9f30-1d297a08b04b" name="Changes" comment="Exercicio 1">
+      <change afterPath="$PROJECT_DIR$/src/Ex2/Desconto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex2/DescontoEstudante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex2/DescontoIdoso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex2/Pedido.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,8 +21,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -45,9 +40,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -75,11 +72,25 @@
       <option name="presentableId" value="Default" />
       <updated>1719967709772</updated>
       <workItem from="1719967710861" duration="978000" />
-      <workItem from="1720008845232" duration="2441000" />
+      <workItem from="1720008845232" duration="4217000" />
+      <workItem from="1720014630134" duration="1991000" />
     </task>
+    <task id="LOCAL-00001" summary="Exercicio 1">
+      <option name="closed" value="true" />
+      <created>1720011977874</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1720011977875</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Exercicio 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercicio 1" />
   </component>
 </project>
