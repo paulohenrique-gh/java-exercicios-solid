@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08852739-664f-452f-9f30-1d297a08b04b" name="Changes" comment="Finaliza exercício 4">
-      <change afterPath="$PROJECT_DIR$/src/Ex5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex5/Pagamento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex5/PagamentoCartao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex5/PagamentoPayPal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex5/RegistradorPagamento.java" afterDir="false" />
+    <list default="true" id="08852739-664f-452f-9f30-1d297a08b04b" name="Changes" comment="Finaliza exercício 5">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex5/PagamentoPayPal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex5/PagamentoPayPal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +71,7 @@
       <workItem from="1720014630134" duration="2527000" />
       <workItem from="1720032005564" duration="4000" />
       <workItem from="1720032015895" duration="5205000" />
-      <workItem from="1720095321145" duration="7920000" />
+      <workItem from="1720095321145" duration="8022000" />
     </task>
     <task id="LOCAL-00001" summary="Exercicio 1">
       <option name="closed" value="true" />
@@ -117,7 +113,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720099110388</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Finaliza exercício 5">
+      <option name="closed" value="true" />
+      <created>1720103361822</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1720103361822</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,6 +133,7 @@
     <MESSAGE value="Exercicio 3&#10;&#10;Comentários nos exercícios anteriores" />
     <MESSAGE value="WIP: Exercício 4" />
     <MESSAGE value="Finaliza exercício 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finaliza exercício 4" />
+    <MESSAGE value="Finaliza exercício 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finaliza exercício 5" />
   </component>
 </project>
