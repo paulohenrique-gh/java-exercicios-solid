@@ -4,15 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08852739-664f-452f-9f30-1d297a08b04b" name="Changes" comment="Exercicio 2">
-      <change afterPath="$PROJECT_DIR$/src/Ex3/Conta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex3/ContaCorrente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex3/ContaPoupanca.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex3/Main.java" afterDir="false" />
+    <list default="true" id="08852739-664f-452f-9f30-1d297a08b04b" name="Changes" comment="Exercicio 3&#10;&#10;Comentários nos exercícios anteriores">
+      <change afterPath="$PROJECT_DIR$/src/Ex4/Impressora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex4/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex1/GeradorRelatorio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex1/GeradorRelatorio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex2/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +71,8 @@
       <workItem from="1720008845232" duration="4217000" />
       <workItem from="1720014630134" duration="2527000" />
       <workItem from="1720032005564" duration="4000" />
-      <workItem from="1720032015895" duration="2663000" />
+      <workItem from="1720032015895" duration="5205000" />
+      <workItem from="1720095321145" duration="595000" />
     </task>
     <task id="LOCAL-00001" summary="Exercicio 1">
       <option name="closed" value="true" />
@@ -94,7 +90,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720016649924</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Exercicio 3&#10;&#10;Comentários nos exercícios anteriores">
+      <option name="closed" value="true" />
+      <created>1720034960690</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1720034960690</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,6 +107,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Exercicio 1" />
     <MESSAGE value="Exercicio 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercicio 2" />
+    <MESSAGE value="Exercicio 3&#10;&#10;Comentários nos exercícios anteriores" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercicio 3&#10;&#10;Comentários nos exercícios anteriores" />
   </component>
 </project>
